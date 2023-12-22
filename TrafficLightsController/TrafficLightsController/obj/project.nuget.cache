@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SAnD13PgNe1DyhGv2jW8DuprnFRe96xVE1Pc7TMh9b1HOFlyhYD78rvrbkSI3Ds4WQcp7ojhmz+w8n+3c3Enjw==",
+  "success": true,
+  "projectFilePath": "/Users/amirgazizulin/Downloads/TrafficLightsController/TrafficLightsController/TrafficLightsController.csproj",
+  "expectedPackageFiles": [
+    "/Users/amirgazizulin/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/amirgazizulin/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/amirgazizulin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
